@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Add some basic styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #075A87;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+.about_me {
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #242424;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: #fff;
+}
+
+/* Style the portfolio section */
+.portfolio {
+    margin-top: 20px;
+}
+
+.portfolio h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.portfolio .project {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+/* Style the footer */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+
+a {
+    color: #D3FCD5;
+}
